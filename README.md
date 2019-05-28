@@ -7,8 +7,13 @@ The slice is loaded on startup and saved on exit.
 5 REST functions are implemented
 
 GET(all)
+
 GET(id)
+
 POST
+
 PUT(id) #replace
+
 PATCH(id) #update
+
 DELETE(id)
